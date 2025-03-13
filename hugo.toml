@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My website'
+title = 'Dino's Lair'
 theme = 'typo'
 
 # Google analytics code
