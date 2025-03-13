@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Dino's Lair'
-theme = 'typo'
+title =Dino's Lair'
+theme='typo'
 
 # Google analytics code
 googleAnalytics = "G-xxxxxxxxx"
