@@ -6,14 +6,14 @@
     <description>Recent content in Java on Dino Lair</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Log-Structured Merge Tree</title>
+      <title>Detailed Explanation of Bimocq Code</title>
       <link>http://localhost:1313/posts/lsm-tree/</link>
-      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/lsm-tree/</guid>
-      <description>An LSM Tree overview and Java implementation.</description>
+      <description>An interpretation of Bimocq opensource code</description>
     </item>
   </channel>
 </rss>

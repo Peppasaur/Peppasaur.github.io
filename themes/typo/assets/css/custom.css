@@ -1,1 +1,14 @@
 /* Place custom css here */
+/* 全局调整字体大小 */
+body {
+    font-size: 16px;  /* 设置默认字体大小 */
+}
+
+pre, code {
+    font-size: 0.85em;  /* 调整代码块的字体大小 */
+}
+
+/* 其他需要调整的元素 */
+h1, h2, h3 {
+    font-size: 2em;   /* 修改标题的字体大小 */
+}
